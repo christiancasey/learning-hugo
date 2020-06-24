@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://practice-hugo.com/posts/checklist/</loc>
+    <lastmod>2020-06-24T10:00:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://practice-hugo.com/</loc>
+    <lastmod>2020-06-24T10:00:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://practice-hugo.com/posts/</loc>
+    <lastmod>2020-06-24T10:00:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://practice-hugo.com/posts/trying-out-hugo/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://practice-hugo.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://practice-hugo.com/tags/</loc>
+  </url>
+  
+</urlset>
