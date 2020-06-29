@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Learning How To Hugo</title>
+    <link>http://practice-hugo.com/posts/</link>
+    <description>Recent content in Posts on Learning How To Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jun 2020 10:00:23 -0400</lastBuildDate>
+    
+	<atom:link href="http://practice-hugo.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Checklist</title>
+      <link>http://practice-hugo.com/posts/checklist/</link>
+      <pubDate>Wed, 24 Jun 2020 10:00:23 -0400</pubDate>
+      
+      <guid>http://practice-hugo.com/posts/checklist/</guid>
+      <description> Clone Hugo learning repo Install Hugo  Install Chocolatey Get Hugo   Fix PATH for own computer  Use enviroment variables   Learn Hugo Tutorial  Create site Add theme Create posts like this one Start Hugo server  Get link working   Customize theme Create static pages   Get site to Github  Upload site Add, commit, and push changes Create pull request    </description>
+    </item>
+    
+    <item>
+      <title>Trying To Understand Hugo Day 2</title>
+      <link>http://practice-hugo.com/posts/trying-out-hugo/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://practice-hugo.com/posts/trying-out-hugo/</guid>
+      <description>When attempting to understand and use Hugo, the most difficult part was getting my computer to understand Hugo as a command. Ultimately, I decided to use my dad&amp;rsquo;s computer so I could learn Hugo before Thursday, and it worked much better.I managed to do a couple things  Install a lot of stuff   Chocolatey 2x Hugo 2x Atom and Git on my dad&amp;rsquo;s computer Hugo themes  Create a Hugo site Create these posts  I have to say&amp;hellip; good job me :)</description>
+    </item>
+    
+  </channel>
+</rss>

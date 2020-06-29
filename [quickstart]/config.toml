@@ -1,0 +1,4 @@
+baseURL = "http://practice-hugo.com/"
+languageCode = "en-us"
+title = "Learning How To Hugo"
+'theme = "twenty-twenty"' 
